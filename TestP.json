@@ -1,0 +1,102 @@
+ [
+    {
+      "player": "John Smith",
+      "team": "Red Tigers",
+      "matches_played": 20,
+      "goals_scored": 12,
+      "assists": 5,
+      "yellow_cards": 2,
+      "red_cards": 0,
+      "passes_completed": 350
+    },
+    {
+      "player": "Mike Johnson",
+      "team": "Blue Lions",
+      "matches_played": 19,
+      "goals_scored": 7,
+      "assists": 10,
+      "yellow_cards": 3,
+      "red_cards": 1,
+      "passes_completed": 300
+    },
+    {
+      "player": "Sarah White",
+      "team": "Green Panthers",
+      "matches_played": 18,
+      "goals_scored": 3,
+      "assists": 8,
+      "yellow_cards": 1,
+      "red_cards": 0,
+      "passes_completed": 280
+    },
+    {
+      "player": "David Brown",
+      "team": "Yellow Wolves",
+      "matches_played": 20,
+      "goals_scored": 15,
+      "assists": 4,
+      "yellow_cards": 2,
+      "red_cards": 0,
+      "passes_completed": 400
+    },
+    {
+      "player": "Emily Davis",
+      "team": "Purple Jaguars",
+      "matches_played": 19,
+      "goals_scored": 9,
+      "assists": 6,
+      "yellow_cards": 2,
+      "red_cards": 0,
+      "passes_completed": 320
+    },
+    {
+      "player": "Alex Martinez",
+      "team": "Orange Tigers",
+      "matches_played": 20,
+      "goals_scored": 18,
+      "assists": 3,
+      "yellow_cards": 1,
+      "red_cards": 1,
+      "passes_completed": 390
+    },
+    {
+      "player": "Sophia Lee",
+      "team": "Black Lions",
+      "matches_played": 18,
+      "goals_scored": 4,
+      "assists": 12,
+      "yellow_cards": 2,
+      "red_cards": 0,
+      "passes_completed": 310
+    },
+    {
+      "player": "Michael Garcia",
+      "team": "Gray Panthers",
+      "matches_played": 19,
+      "goals_scored": 6,
+      "assists": 7,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "passes_completed": 280
+    },
+    {
+      "player": "Emma Rodriguez",
+      "team": "White Wolves",
+      "matches_played": 20,
+      "goals_scored": 10,
+      "assists": 9,
+      "yellow_cards": 1,
+      "red_cards": 0,
+      "passes_completed": 350
+    },
+    {
+      "player": "Daniel Thomas",
+      "team": "Silver Jaguars",
+      "matches_played": 19,
+      "goals_scored": 5,
+      "assists": 6,
+      "yellow_cards": 3,
+      "red_cards": 1,
+      "passes_completed": 270
+    }
+]
